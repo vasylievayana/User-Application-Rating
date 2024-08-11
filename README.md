@@ -1,5 +1,5 @@
 # User Application Rating
-This project involved calculating  the rating of user applications based on various criteria using Pandas in Python. The data is processed, cleaned, and merged from two CSV files: `applications.csv` and `industries.csv`. The final output is a visualization showing the average rating of accepted applications by week and a histogram visualizing the distribution of ratings.
+This project involved the calculation of user application ratings based on various criteria using Pandas in Python. The data is processed, cleaned, and merged from two CSV files: `applications.csv` and `industries.csv`. The final output is a visualization showing the average rating of accepted applications by week and a histogram visualizing the distribution of ratings.
 
 ## Project Steps
 
